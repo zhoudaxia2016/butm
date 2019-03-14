@@ -1,0 +1,12 @@
+{
+  "name": "butm",
+  "version": "1.0.0",
+  "description": "A project template generate tool",
+  "main": "lib/index.js",
+  "bin": "bin/cli.js",
+  "author": "zhou",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
